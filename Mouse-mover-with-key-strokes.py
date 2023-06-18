@@ -23,5 +23,5 @@ def move_mouse_and_type():
 move_mouse_and_type()
 
 #####
-# 👀  #
+# 👀#
 #####
