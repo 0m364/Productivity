@@ -22,3 +22,8 @@ def link_cameras(camera_list):
 if __name__ == "__main__":
   camera_list = get_camera_list()
   link_cameras(camera_list)
+
+###########
+#         #
+#    👀   #
+###########
